@@ -21,6 +21,7 @@ In this project, we focus on six key elements that enhance the performance of AI
 - Scalable design suitable for deployment in customer support systems.
 
 ## System Architecture
+![Architecture Diagram](architecture_diagram.png)
 1. **User Input**: The system receives a query from the user.
 2. **Agent Routing**: The input is processed and routed to the appropriate AI agent.
 3. **Response Generation**: The assigned agent uses NLP models to generate responses.
